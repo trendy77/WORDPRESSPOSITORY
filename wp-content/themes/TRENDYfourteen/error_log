@@ -1,0 +1,1 @@
+[05-Nov-2016 15:28:12] PHP Fatal error:  Call to undefined function  get_header() in /home5/organli6/public_html/news/wp-content/themes/twentyfourteen/index.php on line 17

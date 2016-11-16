@@ -1,0 +1,28 @@
+/*
+ Theme Name:   fluidElTrendy
+ Theme URI:    http://organisemybiz.com/news/wp-content/themes/fluidElTrendy
+ Description:  Child Theme
+ Author:       TDAMosDefFisher,Esq
+ Author URI:   http://organisemybiz.com/
+ Template:     fluida
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, three-columns, right-sidebar, left-sidebar, grid-layout, custom-background, custom-colors, custom-header, flexible-header, custom-menu, featured-image-header, featured-images, front-page-post-form, full-width-template, footer-widgets, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, news, entertainment, photography, portfolio
+ Text Domain:  fluida
+*/
+
+<?php
+function my_theme_enqueue_styles() {
+
+    $parent_style = 'parent-style'; // This is 'twentyfifteen-style' for the Twenty Fifteen theme.
+
+    wp_enqueue_style( $parent_style, get_template_directory_uri() . '/style.css' );
+    wp_enqueue_style( 'child-style',
+        get_stylesheet_directory_uri() . '/style.css',
+        array( $parent_style ),
+        wp_get_theme()->get('Version')
+    );
+}
+add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
+?>
