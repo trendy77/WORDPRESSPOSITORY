@@ -1,0 +1,3 @@
+; Wordfence WAF
+auto_prepend_file = '/home/organisebiz/public_html/VapeHub/wordfence-waf.php'
+; END Wordfence WAF
