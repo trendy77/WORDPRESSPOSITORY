@@ -1,7 +1,43 @@
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mRecWidget minimal -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4943462589133750"
+     data-ad-slot="5742070026"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+																											Use [AdSense-A] to display this ad.
+
+Enter the AdSense code provided to you from your Google AdSense account.	
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- minimal resp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4943462589133750"
+     data-ad-slot="2649002820"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+																																	Use [AdSense-B] to display this ad.
+
+Enter the AdSense code provided to you from your Google AdSense account.	
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mobile -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4943462589133750"
+     data-ad-slot="8357459220"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+																																					Use [AdSense-C]
+
+
 // widget channel
-
 minimal sml squr.
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- mRecWidget minimal -->
 <ins class="adsbygoogle"
@@ -13,7 +49,6 @@ minimal sml squr.
 </script>
 
 minimal responsive
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- minimal resp -->
 <ins class="adsbygoogle"
@@ -26,7 +61,6 @@ minimal responsive
 </script>
 
 minimal mobile
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- mobile -->
 <ins class="adsbygoogle"

@@ -1,0 +1,28 @@
+Shortcodes
+
+Shortcodes allow you to define a macro that expands to something of your choice. They're basically a sort of HTML tag that wraps content and accept attributes. For example, you could put this in post content:
+
+  [my-shortcode foo="bar"]Hello, World![/my-shortcode]
+
+              //**    BECOMES:
+
+  <aside data-foo="bar"> <h3>Hello, World!</h3></aside>
+
+                       if you include the code below in your `functions.php` file, you can create a post with the following content:
+// IN FUNCTIONS.PHP
+
+function css_tricks_example_shortcode( $attrs, $content = null ) {
+    extract( shortcode_atts( array(
+        'twitter' => ''
+    ), $attrs ) );
+    $twitterURL = 'https://twitter.com/' . $twitter;
+    return <<<HTML
+<p>This post has been written by $content. Follow him on Twitter</p>
+HTML;
+}
+add_shortcode( 'author', 'css_tricks_example_shortcode' );
+
+// TURNS THIS :
+[author twitter="MisterJack"]Alessandro Vendruscolo[/author]
+// INTO THIS:
+<p>This post has been written by Alessandro Vendruscolo. Follow him on <a href="https://twitter.com/MisterJack">Twitter</a></p>

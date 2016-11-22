@@ -1,0 +1,270 @@
+
+    <article>
+     <header>
+      <h1>US Government Benefits, Grants, and Loans</h1>
+	  <p>Learn about government programs that provide financial help for individuals and organizations.</p>     
+	  </header>
+     <section class="infobytpc clearfix row">
+      <ul class="dwnlvl">
+      <li class="col-md-4 col-sm-6 col-xs-12"><a href="/finding-home"><span class="mocklink">Affordable Housing</span></a><p>Find help with renting or buying an affordable place to live.</p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/benefits"><span class="mocklink">Benefits</span></a><p>Learn about federal government programs, including unemployment benefits, and how to find which ones are available to you. </p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/financial-aid"><span class="mocklink">Financial Aid for Students</span></a><p>Learn about getting help paying for school.</p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/food-help"><span class="mocklink">Food Assistance</span></a><p>Find out how to get help buying nutritious food for you and your family.</p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/grants"><span class="mocklink">Grants and Loans</span></a><p>Learn about government grants and loans for states and organizations. For help for individuals, please visit <a href="/benefits">our Benefits page</a>.</p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/help-with-bills"><span class="mocklink">Help with Bills</span></a><p>Learn about government programs to help pay bills and other expenses.</p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/military-assistance"><span class="mocklink">Programs and Benefits for Active Military</span></a><p>Learn about benefits and assistance available to military members and their families. </p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/about-social-security"><span class="mocklink">Social Security Questions</span></a><p>Find the answers to common questions about receiving Social Security.</p></li><li class="col-md-4 col-sm-6 col-xs-12"><a href="/unemployment"><span class="mocklink">Unemployment Benefits and Other Help for the Unemployed</span></a><p>Discover some of the programs and resources that can help if you lose your job.</p></li>      </ul>
+     </section>
+     <p class="volver clearfix"><a href="organisemybiz.com/news/govfeed/usa-gov">BACK to USA.Gov</a></p>
+    </article>
+
+	<body>
+		<div id="srvyinvt"></div>
+		<div id="skiplinkholder">
+		  <p><a id="skiplink" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();">Skip to Main Content</a></p>
+		</div>
+		<div id="header">
+			<div class="container group">
+        <ul class="betalnk">
+              <li><a href="/contact">Ask us a question by Chat, E-mail, or<br>1-844-USA-GOV1 (1-844-872-4681)</a></li>
+        </ul>
+        <div class="cntrlogo"><a class="logolink" href="/">
+          <img id="logo" src="/sites/all/themes/usa/images/Logo_USA.png" alt="USA.gov">
+      </a></div>
+        <ul id="utilities">
+          <li><a href="/change-text"><span class="icon-text-height">Change Text Size</span></a></li>
+        </ul>
+      <div id="toggles"><button id="search-toggle" role="button" aria-haspopup="true" aria-controls="search" aria-expanded="false"><span class="icon-search searcher">Search</span><span class="icon-close closer">Close</span></button><button id="nav-toggle" role="button" aria-haspopup="true" aria-controls="mnnav" aria-expanded="false"><span class="menuer">Menu</span><span class="icon-close closer">Close</span></button></div></div>
+		     <div class="searchbkgnd">
+				 <div class="container">
+				 <div class="searchttl" role="search"><p><label for="query">Search the Government</label></p></div>
+				   <div id="search" aria-expanded="false" aria-hidden="true">
+				    <div>
+				      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8">
+				        <input id="affiliate" name="affiliate" type="hidden" value="usagov">
+				        <input type="text" maxlength="50" name="query" size="38" id="query" class="text search_bg usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+				        <button type="submit" class="submit" value="Search" id="buscarSubmit"><span class="icon-search">Search</span></button>
+				      </form>
+				    </div>
+				  </div>
+				  </div>
+				</div><div id="mnmenu">
+				  	<div class="container">
+			    <nav id="mnnav" role="navigation" aria-hidden="true">
+					    <ul class="navItems clearfix" aria-hidden="true" aria-expanded="false" role="menu" aria-live="polite">
+							<li><a href="/" role="menuitem"><span class="icon-home">Home</span></a></li><li><a href="/agencies" role="menuitem"><span class="icon-agencies">Government Agencies and Elected Officials</span></a></li><li><a href="/housing" role="menuitem"><span class="icon-mortgage">Housing and Community</span></a></li><li><a href="/jobs-and-unemployment" role="menuitem"><span class="icon-job">Jobs and Unemployment</span></a></li><li><a href="/money" role="menuitem"><span class="icon-tax">Money and Shopping</span></a></li><li><a href="/travel-and-immigration" role="menuitem"><span class="icon-globe">Travel and Immigration</span></a></li><li><a href="/voting" role="menuitem"><span class="icon-ballot">Voting and Elections</span></a></li><li><a href="/topics" role="menuitem"><span class="icon-plus">More Services</span></a></li>					    </ul>
+			    </nav>
+		  		<div class="headercontact clearfix">
+	  									<h2>Contact USA.gov</h2>
+					<ul>
+						<li><a href="/contact">
+							<span class="icon-phone">Call 1-844-USA-GOV1 (1‑844‑872‑4681)</span>
+						</a></li>
+						<li><a href="/email">
+							<span class="icon-email">E-mail USA.gov</span>
+						</a></li>
+						<li><a href="/chat">
+							<span class="icon-chat">Chat with USA.gov</span>
+						</a></li>
+					</ul>				</div>
+					</div>
+		    </div>
+		</div>
+			<!-- begin skip link target for main content -->
+		<div class="clearfix">
+		  <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p>
+		</div>
+
+				<!-- end skip link target for main content -->
+		<!-- begin toggle -->
+        		<div id="#skiptarget" class="hptoggles clearfix">
+			<div class="container">
+				<ul>
+					
+				<li class="engtoggle">
+					<a href="//gobierno.usa.gov/dinero-sin-reclamar" lang="es" xml:lang="es">
+						Español
+					</a>
+				</li>
+							</ul>
+			</div>
+		 </div>
+        		 <!-- end toggle -->
+
+
+		
+<!-- [Error] Messages (including DSM statements) will only show to the admin  -->
+
+  <main id="content" role="main">
+    <div class="container clearfix">
+          <div class="term-listing-heading">
+	
+
+	
+
+
+
+	
+
+
+
+	
+		<nav aria-label="Topic" class="col-md-3 leftnav">
+			<section>
+	            	<div class="mrtp clearfix">
+	                    <button id="leftnav-toggle" type="button">
+	                    <div class="bttn">
+		                    <header>
+		                    	<h2 id="">More Topics in this Section</h2>
+		                    </header>  
+	                    </div>
+	                	<div class="mrtpc"></div>
+	                    </button>
+	                </div>
+
+
+					<div class="shade dwn" aria-expanded="false">
+					<header>
+						<h2 itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/money" itemprop="url"><span itemprop="title">Money and Shopping</span></a></h2>					</header>
+					<ul>
+						<li><a href="/benefits-grants-loans">Benefits, Grants, and Loans</a></li><li><a href="/buy-from-government">Buying from the U.S. Government</a></li><li><a href="/currency">Currency</a></li><li><a href="/retirement">Retirement</a></li><li><a href="/consumer">Shopping and Consumer Issues</a></li><li><a href="/start-nonprofit">Starting a Nonprofit Organization</a></li><li><a href="/state-lotteries">State Lottery Results</a></li><li><a href="/taxes">Taxes</a></li><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" class="slctd"><a><span itemprop="title">Unclaimed Money from the Government</span></a></li>					</ul>
+				</div>
+			</section>
+		</nav>
+		<!---right container-->
+		<div class="col-md-9 col-sm-12 rightnav">
+			<header>
+				<h1>Unclaimed Money from the Government</h1><p>Find unclaimed funds held by the government that might be owed to you.</p>			</header>
+			<!-- begin WOTP -->
+
+
+			<div class="wotp">
+  <header>
+    <h2>What's on This Page</h2>
+  </header>
+  <div class="clearfix">
+          <ul>
+  <li>
+    	<a href="#item-37222" onclick="document.getElementById('item-37222').focus();">Find Unclaimed Money</a>  </li>
+  <li>
+    	<a href="#item-37072" onclick="document.getElementById('item-37072').focus();">Undelivered and Unclaimed Federal Tax Refund Checks</a>  </li>
+</ul>      </div>
+</div>
+
+  
+    <article>
+    	<header><h2 id="item-37222">Find Unclaimed Money</h2></header>	
+
+
+        
+        
+            <p>If the government owes you money and you do not collect it, then it's unclaimed. This also applies to banks, credit unions, pensions, and other sources. The following information explains where to look for&nbsp;unclaimed money and how you can avoid scams related to unclaimed funds.</p><h3>Where to Look for Unclaimed Money &nbsp;</h3><p>Currently, the government does not have one central website for finding unclaimed money by name, Social Security number, or state. To find unclaimed money from the government, you can check a number of sources, such as:</p><h4>States' Unclaimed Money</h4><ul><li><a href="http://www.unclaimed.org/">Search by State</a> –&nbsp;Search your state’s listing of unclaimed funds and property.</li></ul><h4>Unclaimed Back Wages</h4><ul><li><a href="http://webapps.dol.gov/wow/">Unpaid Wages</a> – If you think you may be owed back wages from your employer, search the Wage and Hour Division's (WHD's) database of workers for whom it has money waiting to be claimed. WHD is a part of the U.S. Department of Labor (DOL). &nbsp;</li></ul><h4>Life Insurance</h4><ul><li><p><a href="https://insurance.va.gov/UnclaimedFunds">VA Life Insurance Funds</a> –&nbsp;Search the U.S. Department of Veterans Affairs (VA) for unclaimed insurance funds that are owed to certain current or former policyholders or their beneficiaries. <strong>Note:</strong>&nbsp;This does not include funds from Servicemembers’ Group Life Insurance (SGLI) or Veterans’ Group Life Insurance (VGLI) policies from 1965 to the present.&nbsp;&nbsp;</p></li></ul><h4>Retirement</h4><ul><li><p><a href="http://search.pbgc.gov/mp/">Pensions from Former Employers</a>&nbsp;–&nbsp;Search for unclaimed pension money from companies that went out of business or ended a defined plan.</p></li></ul><h4>Taxes</h4><ul><li><p><a href="http://www.irs.gov/uac/Does-the-IRS-Have-Money-Waiting-For-You%3F">Tax Refunds</a>&nbsp;–&nbsp;The Internal Revenue Service (IRS) may owe you money if your refund was unclaimed or undelivered.</p></li></ul><h4>Banking, Investments, and Currency</h4><ul><li><a href="http://www2.fdic.gov/funds/index.asp">Bank Failures</a>&nbsp;–&nbsp;Search the Federal Deposit Insurance Corporation (FDIC) for unclaimed funds from failed financial institutions.</li><li><a href="http://www.ncua.gov/Resources/AM/Pages/UnclaimedDeposits.aspx">Credit Union Failures</a>&nbsp;–&nbsp;Find unclaimed deposits from credit unions.</li><li><a href="http://www.sec.gov/divisions/enforce/claims.htm">SEC Claims Funds</a>&nbsp;–&nbsp;The Securities and Exchange Commission (SEC) lists enforcement cases where a company or person owes investors money.</li><li><a href="http://www.newmoney.gov/law/mutilated-currency.htm">Damaged Money</a>&nbsp;–&nbsp;The Treasury Department will exchange mutilated or damaged U.S. currency.</li></ul><h4>Mortgages</h4><ul><li><a href="http://www.hud.gov/offices/hsg/comp/refunds/">FHA-Insurance Refunds</a>&nbsp;–&nbsp;If you had an FHA-insured mortgage, you may be eligible for a refund from the U.S. Department of Housing and Urban Development (HUD).&nbsp;To search the HUD database, you will need your FHA case number (three digits, a dash, and the next six digits—for example, 051-456789).</li></ul><h4>Savings Bonds</h4><ul><li><a href="http://www.treasuryhunt.gov/">Search for Savings Bonds That Stopped Earning Interest</a>&nbsp;–&nbsp;Treasury Hunt allows you to search for bonds issued since 1974 that have matured and are no longer earning interest.</li><li><a href="http://www.treasurydirect.gov/BC/SBCPrice">Calculate the Value</a>&nbsp;–&nbsp;Find the value of your paper savings bond.</li><li><a href="http://www.treasurydirect.gov/indiv/research/indepth/ebonds/res_e_bonds_eereplace.htm">Replace a Savings Bond</a>&nbsp;–&nbsp;Replace a lost, stolen, or destroyed paper savings bond.</li></ul><h4>International</h4><ul><li><a href="https://www.fiscal.treasury.gov/fsservices/gov/pmt/unpdforclaims/unpdforclaims_home.htm">Foreign Claims</a>&nbsp;–&nbsp;U.S. nationals can find money owed to them from foreign governments after loss of property.</li></ul><h3>Unclaimed Money Scams</h3><p>Beware of people who pretend to be the government and offer to send you unclaimed money for a fee. These scammers use a variety of tricks to get your attention, but their goal is the same: to get you to send them money. Government agencies will not call you about unclaimed money or assets.</p><ul><li>The Federal Trade Commission (FTC) provides tips on how you can avoid <a href="http://www.consumer.ftc.gov/articles/0048-government-imposter-scams">government imposter scams</a>.</li></ul>
+        
+        <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+  </article>
+  <article>
+    	<header><h2 id="item-37072">Undelivered and Unclaimed Federal Tax Refund Checks</h2></header>	
+
+
+        
+        
+            <p>Every year, the Internal Revenue Service (IRS) has millions of dollars in tax refunds that go undelivered or unclaimed.&nbsp;</p><h3>Undelivered Federal Tax Refund Checks</h3><p>Refund checks are mailed to your last known address. If you move without notifying the IRS or the U.S. Postal Service, your refund check may be returned to the IRS.</p><p>If you were expecting a federal tax refund and did not receive it, check the IRS'&nbsp;<a href="http://www.irs.gov/Refunds">Refund Status</a>. You'll need to enter your Social Security number, filing status, and the exact whole dollar amount of your refund. You may be prompted to change your address online.&nbsp;You can also call the <a href="http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/IRS-Hotlines-and-Toll-Free-Numbers">IRS' Refund Hotline</a>.</p><p>If you move, submit a <a href="http://www.irs.gov/pub/irs-pdf/f8822.pdf" id="usorg1" class="lnk-media-altered">Change of Address - Form 8822</a> (<span aria-labelledby="usorg1" aria-describedby="usorg1">PDF, <a href="https://get.adobe.com/reader/">Download Adobe Reader</a></span>) to the IRS; you should also submit a <a href="https://moversguide.usps.com/icoa/home/icoa-main-flow.do?execution=e2s1&amp;_flowId=icoa-main-flow&amp;">Change of Address</a>&nbsp;to the U.S. Postal Service.</p><h3>Unclaimed Federal Tax Refunds&nbsp;</h3><p>If&nbsp;you are eligible for a federal tax refund and do not file a return, then your refund will go unclaimed. Even if you aren't required to file a return, it might benefit you to file if:</p><ul><li><p>Federal taxes were withheld from your pay</p></li></ul><p>and/or</p><ul><li><p>You qualify for the <a href="http://www.irs.gov/Credits-&amp;-Deductions/Individuals/Earned-Income-Tax-Credit">Earned Income Tax Credit (EITC)</a></p></li></ul><p>If&nbsp;you didn't file a tax return because your wages were below the filing requirement, you can still file a return within three years of the filing deadline in order to get your refund.&nbsp;</p><h3><strong>State Refund Checks</strong></h3><p>For information about your state tax refund check, <a href="http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/State-Links-1">contact your state revenue department</a>.</p><h3>Contact the IRS</h3><p>For more information, <a href="/federal-agencies/internal-revenue-service">contact the Internal Revenue Service</a>.</p>
+        
+        <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+  </article>
+
+  			
+
+    	</div>
+	
+
+
+
+
+
+	
+
+	</div>
+    </div>
+<aside class="sclmedia">
+  <div class="container clearfix">
+        <section class="col-md-6 col-xs-12 noemllft">
+          <div class="nodvdr">
+        <header>
+        <h2>Share This Page:</h2>
+        </header>
+        <ul>
+          <li class="col-md-3 col-xs-6"><a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov%2Funclaimed-money&amp;v=3" class="sclfcbk"><span>Facebook</span></a></li>
+          <li class="col-md-3 col-xs-6"><a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Unclaimed+Money+from+the+Government+https://www.usa.gov%2Funclaimed-money" class="scltwttr"><span>Twitter</span></a></li>
+          <li class="col-md-3 col-xs-6"><a href="https://plus.google.com/share?url=https://www.usa.gov%2Funclaimed-money" class="sclggle"><span>Google+</span></a></li>
+
+                      <li class="col-md-3 col-xs-6">
+                <a href="/emailpage?path=/unclaimed-money" class="scleml"><span>E-mail</span></a>
+            </li>
+          
+        </ul>
+      </div>
+    </section>
+    <!--
+          <section class="col-md-6 col-xs-12 dvdr">
+    
+      <div>
+        <header>
+          <h2><label for="email-input">Get E-mail Updates on This Topic:</label></h2>
+        </header>
+        <div class="nowrp">
+          <form method="POST" action="https://public.govdelivery.com/accounts/USAGOV/subscribers/qualify">
+            <p class="txtbx">
+                              <input id="topic_id" name="topic_id" type="hidden" value="USAGOV_16" />
+                            <input id="email-input" class="text" size="38" name="email" type="email">
+              <input class="submit" value="Subscribe" id="emailSubmit" type="submit">
+            </p>
+          </form>
+        </div>
+    </div>
+    </section>
+    -->
+  </div>
+</aside>
+  </main>
+
+
+      <!-- begin about container -->
+      <div class="footernav col-md-4 col-sm-12 clearfix">
+        <!-- <section> -->
+        <h2>About USA.gov</h2>
+        <ul>
+          <li><a href="/about">About Us</a></li>
+          <li><a href="/site-index">Site Index</a></li>
+          <li><a href="http://gobierno.usa.gov">GobiernoUSA.gov</a></li>
+                                        <li><a href="http://kids.usa.gov">Kids.gov</a></li>
+          <li><a href="http://publications.usa.gov">Order Print Publications</a></li>
+          <li><a href="/media">For the Media</a></li>
+          <li><a href="/developer">For Developers</a></li>
+          <li><a href="/notices">Website Notices</a></li>
+        </ul>
+      </div>
+      <!-- end about container -->
+
+      <!-- begin connected container -->
+      <div class="footerconnected col-md-4 col-sm-12 clearfix">
+        <h2>Stay Connected</h2>
+        <ul>
+        <li><a href="http://www.facebook.com/USAgov"> <span class="icon-facebook">Facebook</span></a></li>
+          <li><a href="http://twitter.com/USAgov"> <span class="icon-twitter">Twitter</span> </a></li>
+                <li><a href="http://www.youtube.com/USGovernment"> <span class="icon-youtube">YouTube</span> </a></li>
+          <li><a href="https://www.snapchat.com/add/usagov"> <span class="icon-snapchat">Snapchat</span> </a></li>
+          <li><a href="http://connect.usa.gov/subscribe"> <span class="icon-connect">Get E-mail Updates</span> </a></li>
+        </ul>
+        <!-- </section> -->
+      </div>
+      <!-- end connected container -->
+    </div>
+  </div>
+  <!-- begin tagline container -->
+  <div class="footertagline">
+  <!-- <section> -->
+    <div class="tagline clearfix container">
+      <p>Official Guide to Government Information and Services</p>
+      <p class="volver clearfix"><a href="#skiptarget"><span class="icon-backtotop-dwnlvl">Back to Top</span></a></p>
+    </div>
+    <div class="footerlogo">
+      <div class="footerlogoLine container">
+        <p class="volver clearfix"><a href="usa.gov/explore">Brought to you by<img src="usa.gov/sites/all/themes/usa/images/Logo_USAgov_Footer.png" alt="USAGov logo"></a></p>
+      </div>
+    </div>
+  </div>
+  <!-- end tagline container --></div>
